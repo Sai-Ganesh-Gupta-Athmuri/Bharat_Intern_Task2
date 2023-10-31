@@ -1,0 +1,2 @@
+## Netflix
+Welcome to the Netflix Homepage! Immerse yourself in a world of captivating entertainment. Our beautifully designed interface offers a seamless browsing experience, showcasing a vast library of movies and TV shows. Discover your favorite content, binge-watch the latest releases, and personalize your watchlist. With sleek visuals and user-friendly navigation, Netflix brings you the ultimate streaming experience. Sit back, relax, and let the entertainment journey begin!
